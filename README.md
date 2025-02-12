@@ -13,11 +13,11 @@
 - **Veritabanı:** SQLite  
 - **Platform:** Android  
 ## Ekran Görüntüleri
-![Proje Ekran Görüntüsü 1](ekrangoruntuleri/0.jpeg)
-![Proje Ekran Görüntüsü 2](ekrangoruntuleri/1.jpeg)
-![Proje Ekran Görüntüsü 3](ekrangoruntuleri/2.jpeg)
-![Proje Ekran Görüntüsü 4](ekrangoruntuleri/3.jpeg)
-![Proje Ekran Görüntüsü 5](ekrangoruntuleri/4.jpeg)
-![Proje Ekran Görüntüsü 6](ekrangoruntuleri/5.jpeg)
-![Proje Ekran Görüntüsü 7](ekrangoruntuleri/6.jpeg)
+<img src="https://github.com/ismaillkoc/ZimmetTakip/blob/main/ekrangoruntuleri/0.jpeg" width="300">
+<img src="https://github.com/ismaillkoc/ZimmetTakip/blob/main/ekrangoruntuleri/1.jpeg" width="300">
+<img src="https://github.com/ismaillkoc/ZimmetTakip/blob/main/ekrangoruntuleri/2.jpeg" width="300">
+<img src="https://github.com/ismaillkoc/ZimmetTakip/blob/main/ekrangoruntuleri/3.jpeg" width="300">
+<img src="https://github.com/ismaillkoc/ZimmetTakip/blob/main/ekrangoruntuleri/4.jpeg" width="300">
+<img src="https://github.com/ismaillkoc/ZimmetTakip/blob/main/ekrangoruntuleri/5.jpeg" width="300">
+<img src="https://github.com/ismaillkoc/ZimmetTakip/blob/main/ekrangoruntuleri/6.jpeg" width="300">
 
