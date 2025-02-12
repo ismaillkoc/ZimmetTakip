@@ -14,14 +14,15 @@
 - **Platform:** Android  
 ## Ekran Görüntüleri
 <p align="center">
-  <img src="https://github.com/ismaillkoc/ZimmetTakip/blob/main/ekrangoruntuleri/0.jpeg" width="300">
-  <img src="https://github.com/ismaillkoc/ZimmetTakip/blob/main/ekrangoruntuleri/1.jpeg" width="300">
-  <img src="https://github.com/ismaillkoc/ZimmetTakip/blob/main/ekrangoruntuleri/2.jpeg" width="300">
+  <img src="https://github.com/ismaillkoc/ZimmetTakip/blob/main/ekrangoruntuleri/1.jpeg" width="250">
+  <img src="https://github.com/ismaillkoc/ZimmetTakip/blob/main/ekrangoruntuleri/2.jpeg" width="250">
+  <img src="https://github.com/ismaillkoc/ZimmetTakip/blob/main/ekrangoruntuleri/3.jpeg" width="250">
 </p>
 <p align="center">
-  <img src="https://github.com/ismaillkoc/ZimmetTakip/blob/main/ekrangoruntuleri/3.jpeg" width="300">
-  <img src="https://github.com/ismaillkoc/ZimmetTakip/blob/main/ekrangoruntuleri/4.jpeg" width="300">
-  <img src="https://github.com/ismaillkoc/ZimmetTakip/blob/main/ekrangoruntuleri/5.jpeg" width="300">
+  <img src="https://github.com/ismaillkoc/ZimmetTakip/blob/main/ekrangoruntuleri/4.jpeg" width="250">
+  <img src="https://github.com/ismaillkoc/ZimmetTakip/blob/main/ekrangoruntuleri/5.jpeg" width="250">
+  <img src="https://github.com/ismaillkoc/ZimmetTakip/blob/main/ekrangoruntuleri/6.jpeg" width="250">
 </p>
-<img src="https://github.com/ismaillkoc/ZimmetTakip/blob/main/ekrangoruntuleri/6.jpeg" width="300">
+  <img src="https://github.com/ismaillkoc/ZimmetTakip/blob/main/ekrangoruntuleri/0.jpeg" width="250">
+
 
